@@ -5,4 +5,4 @@
 - 🌱 Studying Software and Systems Engineering at LUT
 - 🐧 Linux user and evangelist
 - 📫 How to reach me: fentorb24@gmail.com
-- 🌍 More info about me at my [www.fentorweb.hu](personal website)
+- 🌍 More info about me at my [personal website](https://www.fentorweb.hu)
