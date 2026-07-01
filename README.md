@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently studying Software and Systems Engineering at LUT University
-- 🎮 I love making little games and projects
-- 😄 Pronouns: He/Him
-- 🐧 I use Fedora, but I love all flavors of Linux :D
+- 🐍 I mostly work in Python
+- 🗺️ Currently working as a full stack developer using Django on a LUT funded project
+- 🌱 Studying Software and Systems Engineering at LUT
+- 🐧 Linux user and evangelist
 - 📫 How to reach me: fentorb24@gmail.com
+- 🌍 More info about me at my [www.fentorweb.hu](personal website)
